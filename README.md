@@ -23,6 +23,33 @@ I’m starting from the ground up and using this space as a **public logbook** o
 
 ⭐ *This is the start of my journey — follow along as I go from beginner to builder.*  
 
+## 🏆 Milestones
+
+### 📖 Learning
+- [x] Set up my first GitHub repository  
+- [ ] Learn Python basics (variables, loops, functions)  
+- [ ] Practice problem-solving with small coding challenges  
+- [ ] Understand Git & GitHub workflows (commit, push, pull, branches)  
+
+### 🤖 AI & Machine Learning
+- [ ] Learn about data types, libraries (NumPy, Pandas)  
+- [ ] Explore basic machine learning concepts (training, testing, models)  
+- [ ] Build my first simple ML project  
+- [ ] Experiment with automation and AI tools  
+
+### 💻 Projects
+- [ ] Create and publish my first small project repo  
+- [ ] Add documentation and a clear README to a project  
+- [ ] Share code that solves a real problem or automates something  
+- [ ] Collaborate on an open-source project  
+
+### 🚀 Career Progress
+- [ ] Build a personal portfolio site  
+- [ ] Share my journey on LinkedIn/Twitter/GitHub  
+- [ ] Contribute to open-source regularly  
+- [ ] Apply for my first AI/software job  
+
+
 ## 📊 Progress Overview
 
 **Overall**  

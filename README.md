@@ -22,3 +22,33 @@ I’m starting from the ground up and using this space as a **public logbook** o
 ---
 
 ⭐ *This is the start of my journey — follow along as I go from beginner to builder.*  
+
+## 📊 Progress Overview
+
+**Overall**  
+`[█░░░░░░░░░] 10%`  *(just getting started 🚀)*  
+
+### 📖 Learning
+- Python Basics: `[█░░░░░░░░░] 10%`
+- Problem Solving (challenges): `[░░░░░░░░░░] 0%`
+- Git & GitHub: `[█░░░░░░░░░] 10%`
+
+### 🤖 AI & Machine Learning
+- Data & Libraries (NumPy, Pandas): `[░░░░░░░░░░] 0%`
+- ML Concepts (train/test/models): `[░░░░░░░░░░] 0%`
+- First ML Project: `[░░░░░░░░░░] 0%`
+- Automation & AI Tools: `[░░░░░░░░░░] 0%`
+
+### 💻 Projects
+- First Small Project Repo: `[█░░░░░░░░░] 10%`
+- Project Documentation: `[░░░░░░░░░░] 0%`
+- Real-world Script/Automation: `[░░░░░░░░░░] 0%`
+- Open-Source Collaboration: `[░░░░░░░░░░] 0%`
+
+### 🚀 Career
+- Portfolio Site: `[░░░░░░░░░░] 0%`
+- Share Journey (posts): `[░░░░░░░░░░] 0%`
+- Regular OSS Contributions: `[░░░░░░░░░░] 0%`
+- First AI/Software Applications: `[░░░░░░░░░░] 0%`
+
+**Snapshot:** Learning `[█░░░░░░░░░] 10%` · AI/ML `[░░░░░░░░░░] 0%` · Projects `[█░░░░░░░░░] 10%` · Career `[░░░░░░░░░░] 0%`

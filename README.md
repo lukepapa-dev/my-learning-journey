@@ -56,7 +56,7 @@ I’m starting from the ground up and using this space as a **public logbook** o
 `[█░░░░░░░░░] 10%`  *(just getting started 🚀)*  
 
 ### 📖 Learning
-- Python Basics: `[█░░░░░░░░░] 10%`
+- Python Basics: `[███░░░░░░░] 30%`
 - Problem Solving (challenges): `[░░░░░░░░░░] 0%`
 - Git & GitHub: `[█░░░░░░░░░] 10%`
 
